@@ -4,8 +4,8 @@
     {
       "folder": "ubuntu",
       "supports_bases": [
-        "debian",
-        "ubuntu"
+        "joshspicer/debian",
+        "joshspicer/ubuntu"
       ]
     }
   ]
